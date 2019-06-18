@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/ekomobile/grpc-consul-resolver.svg)](https://travis-ci.org/ekomobile/grpc-consul-resolver)
-[![GitHub release](https://img.shields.io/github/release/nvx/grpc-consul-resolver.svg)](https://github.com/ekomobile/nvx/releases)
+[![GitHub release](https://img.shields.io/github/release/nvx/grpc-consul-resolver.svg)](https://github.com/nvx/grpc-consul-resolver/releases)
 [![Go Report Card](https://goreportcard.com/badge/github.com/nvx/grpc-consul-resolver)](https://goreportcard.com/report/github.com/nvx/grpc-consul-resolver)
 [![GoDoc](https://godoc.org/github.com/nvx/grpc-consul-resolver?status.svg)](https://godoc.org/github.com/nvx/grpc-consul-resolver)
 
